@@ -5,4 +5,4 @@ It enables delete, divide, and fuse nuclear regions with just clicking on the bu
 
 It was developed for curating segmentation results of C. elegans embryo. Hence it has a function to validate the curation results by refering a complete segmentation result.
 
-<img height="140px" src="/Pictures/Curater1.png">
+<img height="140px" src="/Pictures/Curater1.jpg">
